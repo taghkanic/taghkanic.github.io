@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Taghkanic is with <a href="http://jajajrjr.github.io/"><b>Jaja Jr. jr. Records and is in Brooklyn, NY.</b></a>.</center>
+<center>Taghkanic is with <a href="http://jajajrjr.github.io/"><b>Jaja Jr. jr. Records</a></b> and is in Brooklyn, NY.</center>
 
 <!--## Features
 * Minimal, you can focus on your content
