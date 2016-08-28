@@ -6,7 +6,14 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Taghkanic is with <a href="http://jajajrjr.github.io/"><b>Jaja Jr. jr. Records</a></b> and is in Brooklyn, NY.</center>
+<center>
+Taghkanic is with <a href="http://jajajrjr.github.io/">Jaja Jr. jr. Records </a> and is in Brooklyn, NY.
+
+<br>
+<iframe style="border: 0; width: 350px; height: 442px;" src="http://bandcamp.com/EmbeddedPlayer/track=1037115656/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://taghkanic.bandcamp.com/track/intro">Intro by Taghkanic</a></iframe>
+
+<!--</br>
+</center>-->
 
 <!--## Features
 * Minimal, you can focus on your content
